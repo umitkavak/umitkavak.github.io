@@ -3,9 +3,9 @@
 #### Technical Skills: Python, SQL, Apache, 
 
 ## Education
-- Ph.D., Physics | The University of Texas at Dallas (_May 2022_)								       		
-- M.S., Physics	| The University of Texas at Dallas (_December 2019_)	 			        		
-- B.S., Physics | The University of Texas at Dallas (_May 2017_)
+- Ph.D., Astronomy | University of Groningen % SRON (_2016-2021_)								       		
+- M.S., Astronomy and Space Sciences	|  Istanbul University & University of Cologne (_2012-2016_)	 			        		
+- B.S., Astronomy and Space Sciences | Istanbul University (_2008-2012_)
 
 ## Work Experience
 **Data Scientist @ Toyota Financial Services (_June 2022 - Present_)**
