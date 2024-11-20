@@ -30,7 +30,8 @@
 - [Data Science YouTube](https://www.youtube.com/channel/UCa9gErQ9AE5jT2DZLjXBIdA)
 
 ## Publications
-1.Tiwari, M., “Identifying Physical Structures in Our Galaxy with Gaussian Mixture Models: An Unsupervised Machine Learning Technique”, <i>The Astrophysical Journal</i>, vol. 958, no. 2, Art. no. 136, IOP, 2023. doi:10.3847/1538-4357/ad003c.
+
+1. Tiwari, M., “Identifying Physical Structures in Our Galaxy with Gaussian Mixture Models: An Unsupervised Machine Learning Technique”, <i>The Astrophysical Journal</i>, vol. 958, no. 2, Art. no. 136, IOP, 2023. doi:10.3847/1538-4357/ad003c.
 
 2. Karim, R. L., “SOFIA FEEDBACK Survey: The Pillars of Creation in [C II] and Molecular Lines”, <i>The Astronomical Journal</i>, vol. 166, no. 6, Art. no. 240, IOP, 2023. doi:10.3847/1538-3881/acff6c.
 
