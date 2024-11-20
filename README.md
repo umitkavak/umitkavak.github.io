@@ -3,7 +3,7 @@
 #### Technical Skills: Python, SQL, Apache, 
 
 ## Education
-- Ph.D., Astronomy | University of Groningen % SRON (_2016-2021_)								       		
+- Ph.D., Astronomy | University of Groningen & SRON (_2016-2021_)								       		
 - M.S., Astronomy	 | Istanbul University & University of Cologne (_2012-2016_)	 			        		
 - B.S., Astronomy  | Istanbul University (_2008-2012_)
 
