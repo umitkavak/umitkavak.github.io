@@ -1,10 +1,12 @@
 # Umit Kavak, PhD  
 **Data Scientist | AI & ML Enthusiast | Astronomer**  
 
-📍 Merelbeke, Belgium, Europe  
+📍 Merelbeke, Belgium, Europe
+
 📧 [umit@umitkavak.com](mailto:umit@umitkavak.com) | [umitkavak34@gmail.com](mailto:umitkavak34@gmail.com)  
-🌐 [umitkavak.com](https://umitkavak.com) | [LinkedIn](https://linkedin.com/in/umitkavak) | [GitHub Portfolio](https://umitkavak.github.io) | [Instagram](https://www.instagram.com/drumitkavak/)
-📄 [Download My Resume](./assets/resume/UmitKavakResume_18Nov2024_v2.pdf)
+🌐 [umitkavak.com](https://umitkavak.com) | [LinkedIn](https://linkedin.com/in/umitkavak) | [Instagram](https://www.instagram.com/drumitkavak/)  <br>📄 [Download My Resume](./assets/resume/UmitKavakResume_18Nov2024_v2.pdf)
+
+
 
 ---
 
