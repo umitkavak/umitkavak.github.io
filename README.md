@@ -1,33 +1,83 @@
-# Umit Kavak - Portfolio
+# Umit Kavak, PhD  
+**Data Scientist | AI & ML Enthusiast | Astronomer**  
 
-#### Technical Skills: Python, SQL, Apache, 
+📍 Merelbeke, Belgium  
+📧 [umit@umitkavak.com](mailto:umit@umitkavak.com)  
+🌐 [umitkavak.com](https://umitkavak.com) | [LinkedIn](https://linkedin.com/in/umitkavak) | [Portfolio](https://umitkavak.github.io)
 
-## Education
-- Ph.D., Astronomy | University of Groningen & SRON (_2016-2021_)								       		
-- M.S., Astronomy	 | Istanbul University & University of Cologne (_2012-2016_)	 			        		
-- B.S., Astronomy  | Istanbul University (_2008-2012_)
+---
 
-## Work Experience
-**Data Scientist @ .... (_June 2022 - Present_)**
-- ....
+## 👨‍💻 About Me  
 
-## Projects
-### Data-Driven EEG Band Discovery with Decision Trees
-[Publication](https://www.mdpi.com/1424-8220/22/8/3048)
+I am a **Data Scientist** with over **6 years of experience** specializing in data analysis, machine learning, and AI. With a strong academic foundation in **astronomy** (PhD) and technical expertise in **Python** and its data science libraries, I have contributed to scientific advancements at NASA and top universities. My work focuses on uncovering insights from data, optimizing models, and building innovative solutions for real-world problems.
 
-....
+---
 
-![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
+## 🔍 Expertise  
 
-### Decoding Physical and Cognitive Impacts of Particulate Matter Concentrations at Ultra-Fine Scales
-....
+- **Machine Learning & AI**: Python, TensorFlow, PyTorch, Keras, scikit-learn  
+- **Data Analysis**: Pandas, NumPy, Matplotlib, Seaborn, SciPy  
+- **Big Data & ETL**: Spark, SQL, Docker  
+- **Data Visualization**: Tableau, matplotlib, seaborn  
 
+---
 
-## Talks & Lectures
-- TBU
-- 
+## 🏆 Key Achievements  
 
-- [Data Science YouTube](https://www.youtube.com/channel/UCa9gErQ9AE5jT2DZLjXBIdA)
+- Discovered **2 stellar sub-structures**, improving observational strategies.  
+- Developed Python models using Bayesian methods, enhancing prediction accuracy by **30%**.  
+- Optimized Gaussian Mixture Modeling (GMM), reducing computation time by **30%**.  
+- Published **10+ articles** in peer-reviewed journals, with one featured on the cover of *Astronomy & Astrophysics*.  
+
+---
+
+## 📂 Featured Projects  
+
+### [1. Stellar Substructure Analysis with ML](https://github.com/umitkavak/stellar-analysis)  
+Analyzed over a million spectral data cubes, identifying new structures using machine learning techniques.
+
+### [2. Covid Death Statistics in Belgium](https://github.com/umitkavak/covid-viz-belgium)  
+Created interactive Tableau dashboards highlighting trends and patterns in Covid data.
+
+### [3. Automated Baseline Correction for Spectral Data](https://github.com/umitkavak/baseline-correction)  
+Developed ML-based tools for noise reduction and data preprocessing, improving data quality by **30%**.
+
+### [4. Belgian Food Waste Patterns](https://github.com/umitkavak/food-waste-belgium)  
+Visualized food waste impacts on local communities with Tableau dashboards.
+
+---
+
+## 🌟 Skills  
+
+- **Languages**: Python, R, SQL, HTML  
+- **Data Science**: Machine Learning, Deep Learning, Big Data  
+- **Tools**: Docker, Tableau, Spark  
+- **Languages Spoken**: English (Native), Turkish (Native), Kurdish (Advanced), Dutch (Beginner)  
+
+---
+
+## 🌱 Currently Learning  
+
+- Advanced **Dutch** to support my professional growth.  
+- Building a **virtual assistant for psychologists** using AI/ML.  
+
+---
+
+## 📊 Professional Experience  
+
+### Data Scientist | **Leiden University**  
+*Oct 2023 – Present, Netherlands*  
+- Improved data analysis pipelines, discovering **2 new stellar sub-structures**.
+
+### Associate Scientist | **NASA**  
+*Jan 2022 – Oct 2023, USA*  
+- Developed advanced Python models and reduced computational time for GMM by **30%**.  
+
+### PhD Researcher | **Kapteyn Institute**  
+*Dec 2016 – Dec 2021, Netherlands*  
+- Published **5+ articles** in top-tier journals and created reusable Python packages for the scientific community.  
+
+---
 
 ## Publications
 
@@ -65,4 +115,7 @@
 
 17. Kavak, U., “A Quest for Radio Jets in High-Mass Young Stellar Objects”, MsT, 2016.
 
+## 🔗 Get in Touch  
+
+Feel free to reach out if you'd like to collaborate on projects or discuss exciting data science opportunities!
 
