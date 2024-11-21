@@ -50,6 +50,9 @@ This chart displays the monthly COVID-19-related death counts in Belgium across 
 ### [Netflix Movie Statistics Dashboard](https://public.tableau.com/views/NetflixMoviesStatistics/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 Created a dashboard showing the netflix movie statistics (cast, type, and category) per country. 
 
+### [Job Analytics per field](https://public.tableau.com/views/JobAnalytics_17309042942120/JobAnalytics?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+Created a dashboard presenting jobs in demand, required years of experience and level of skills per job. 
+
 ---
 
 ## 🌟 Skills  
