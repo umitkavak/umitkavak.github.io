@@ -53,6 +53,9 @@ Created a dashboard showing the netflix movie statistics (cast, type, and catego
 ### [Job Analytics per field](https://public.tableau.com/views/JobAnalytics_17309042942120/JobAnalytics?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 Created a dashboard presenting jobs in demand, required years of experience and level of skills per job. 
 
+### [Sum of Neflix movies per country](https://public.tableau.com/views/NetflixSumofDurationbyCountry/Dashboard2?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+A packed bubble chart representing the sum of the netflix movies per country.
+
 ---
 
 ## 🌟 Skills  
