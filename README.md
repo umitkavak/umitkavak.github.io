@@ -33,7 +33,7 @@ I am a **Data Scientist** with over **6 years of experience** specializing in da
 
 ## 📂 Featured Projects  
 
-## AI/ML projects:
+## Python & AI/ML projects:
 
 ### [Stellar Substructure Analysis with Python](https://github.com/umitkavak?tab=repositories)  
 Analyzed over a million spectral data cubes, identifying new structures in massive star forming regions.
