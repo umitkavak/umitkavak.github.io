@@ -4,8 +4,7 @@
 📍 Merelbeke, Belgium, Europe  
 📧 [umit@umitkavak.com](mailto:umit@umitkavak.com) | [umitkavak34@gmail.com](mailto:umitkavak34@gmail.com)  
 🌐 [umitkavak.com](https://umitkavak.com) | [LinkedIn](https://linkedin.com/in/umitkavak) | [GitHub Portfolio](https://umitkavak.github.io) | [Instagram](https://www.instagram.com/drumitkavak/)
-
-[Download my Resume (PDF)][/assets/resume/UmitKavakResume_18Nov2024_v2.pdf]
+📄 [Download My Resume](./assets/resume/UmitKavakResume_18Nov2024_v2.pdf)
 
 ---
 
