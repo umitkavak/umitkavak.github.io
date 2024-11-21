@@ -1,9 +1,9 @@
 # Umit Kavak, PhD  
 **Data Scientist | AI & ML Enthusiast | Astronomer**  
 
-📍 Merelbeke, Belgium  
-📧 [umit@umitkavak.com](mailto:umit@umitkavak.com)  
-🌐 [umitkavak.com](https://umitkavak.com) | [LinkedIn](https://linkedin.com/in/umitkavak) | [Portfolio](https://umitkavak.github.io)
+📍 Merelbeke, Belgium, Europe  
+📧 [umit@umitkavak.com](mailto:umit@umitkavak.com) | [umitkavak34@gmail.com](mailto:umitkavak34@gmail.com)  
+🌐 [umitkavak.com](https://umitkavak.com) | [LinkedIn](https://linkedin.com/in/umitkavak) | [GitHub Portfolio](https://umitkavak.github.io) | [Instagram](https://www.instagram.com/drumitkavak/)
 
 ---
 
@@ -33,17 +33,22 @@ I am a **Data Scientist** with over **6 years of experience** specializing in da
 
 ## 📂 Featured Projects  
 
-### [1. Stellar Substructure Analysis with ML](https://github.com/umitkavak/stellar-analysis)  
-Analyzed over a million spectral data cubes, identifying new structures using machine learning techniques.
+## AI/ML projects:
 
-### [2. Covid Death Statistics in Belgium](https://github.com/umitkavak/covid-viz-belgium)  
-Created interactive Tableau dashboards highlighting trends and patterns in Covid data.
+### [Stellar Substructure Analysis with Python](https://github.com/umitkavak?tab=repositories)  
+Analyzed over a million spectral data cubes, identifying new structures in massive star forming regions.
 
-### [3. Automated Baseline Correction for Spectral Data](https://github.com/umitkavak/baseline-correction)  
-Developed ML-based tools for noise reduction and data preprocessing, improving data quality by **30%**.
+### [Spectral Baseline Correction for [OI] 63 micron spectral observation of NGC 7538]([https://github.com/umitkavak/baseline-correction](https://github.com/umitkavak/datacube_baselinecorrection))  
+Developed ML-based tools for noise reduction and data preprocessing, improving data quality by **20%**.
 
-### [4. Belgian Food Waste Patterns](https://github.com/umitkavak/food-waste-belgium)  
-Visualized food waste impacts on local communities with Tableau dashboards.
+
+## Tableau Projects:
+
+### [Covid Death Statistics in Belgium (March 2020 - June 2023)](https://public.tableau.com/views/MonthlyCOVID-19DeathsbyAgeGroupinBelgiumMarch2020-June2023/MonthDeathNumberinBelgiumDuetoCovid-19?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+This chart displays the monthly COVID-19-related death counts in Belgium across different age groups from March 2020 to June 2023.
+
+### [Netflix Movie Statistics Dashboard](https://public.tableau.com/views/NetflixMoviesStatistics/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+Created a dashboard showing the netflix movie statistics (cast, type, and category) per country. 
 
 ---
 
@@ -58,8 +63,9 @@ Visualized food waste impacts on local communities with Tableau dashboards.
 
 ## 🌱 Currently Learning  
 
+- Improving **LLM** and **Gen AI**  knowledge 
 - Advanced **Dutch** to support my professional growth.  
-- Building a **virtual assistant for psychologists** using AI/ML.  
+- Learning a **virtual assistant for psychologists** using AI/ML.  
 
 ---
 
