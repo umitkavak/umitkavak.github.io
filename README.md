@@ -41,7 +41,7 @@ I am a **Data Scientist** with over **6 years of experience** specializing in da
 ### [Stellar Substructure Analysis with Python](https://github.com/umitkavak?tab=repositories)  
 Analyzed over a million spectral data cubes, identifying new structures in massive star forming regions.
 
-### [Spectral Baseline Correction for [OI] 63 micron spectral observation of NGC 7538]([https://github.com/umitkavak/baseline-correction](https://github.com/umitkavak/datacube_baselinecorrection))  
+### [Spectral Baseline Correction for [OI] 63 micron spectral observation of NGC 7538](https://github.com/umitkavak/baseline-correction)
 Developed ML-based tools for noise reduction and data preprocessing, improving data quality by **20%**.
 
 
